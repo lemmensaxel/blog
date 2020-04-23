@@ -1,5 +1,5 @@
 ---
-path: testBericht
+path: test/testBericht
 date: 2020-04-23T11:01:37.994Z
 title: Dit is een test
 description: 'Testbericht om te kijken '
